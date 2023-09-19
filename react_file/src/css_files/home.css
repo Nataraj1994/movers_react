@@ -1,0 +1,202 @@
+.btn{
+    top: -50px;
+    position: relative;
+  }
+  .new_page {
+    top: -70px;
+    position: relative;
+  }
+  .tabpanel{
+    position: relative;
+    top:-55px;
+    width:100%;
+    padding: 02%;
+    text-align:start;
+  }
+  .tabpanel button{
+    width: 150px;
+    height: 100px;
+    padding: 10px;
+    margin-left: 10px;
+  
+    
+  }
+  .tabcontainer{
+    width: 100%;
+    height: 00px;
+    position: relative;
+    left: 5rem;
+    background-color: rgb(247, 86, 11);
+    top: 45px;
+    left: 0px;
+  }
+  .buttoncontainer{
+    top: -55px;
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    outline: none;
+    padding: 1px;
+    background-color: rgb(247, 86, 11);
+  
+  } .buttoncontainer button{
+    width: 33%;
+    color: black;
+    margin-left: 5px;
+    padding: 15px;
+    left: -1px;
+    display: inline-block;
+    position:relative;
+    box-shadow: 2px 1px 5px 1px rgba(43, 5, 5, 0.508);
+  }
+  .order_details input{
+    font-weight: 900;
+    font-size: 14px;
+    color: rgb(0, 0, 0);
+  }
+  
+  
+  
+  .orderconfirm{
+    top: 00px;
+    width: 41%;
+    left: -17%;
+    padding: 15px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 900;
+  
+  }
+  .orderconfirm:hover{
+    background-color: orangered;
+  }
+  
+  
+  .to_customer{
+    width: 32%;
+    height:450px;
+    background-color: rgb(200, 213, 176);
+    bottom: 10px;
+    position: relative;
+    left: 65%;
+    display: none;
+    margin-top: 180px;
+    text-align:center;
+    box-shadow: 2px 5px 12px red;
+  
+  }.order_details{
+    width: 600px;
+    height: 400px;
+    /* background-color: rgb(59, 13, 239); */
+    background-image: linear-gradient(to bottom, rgba(37, 40, 41, 0.725),rgba(12, 12, 10, 0.352), rgba(77, 77, 194, 0.67));
+    left:60.8%;
+    top: -2.5rem;
+    position: relative;
+    padding: 20px;
+    align-items:center;
+    
+  }
+  span{
+    top: -12.5rem;
+    left: -1rem;
+    font-size: 18px;
+    position: relative;
+    margin-top: 0px;
+    padding: 10px;
+    display: inline;
+  }
+  .search{
+    /* width: 100%; */
+    top: -42px;
+    
+    position: relative;
+  }
+  .search input{
+    padding: 10px 0px 9px 20px;
+    margin-left: 5.5px;
+    align-items: start;
+    width: 31%;
+    font-weight: 900;
+  }
+  #kmprice{
+    left: -9rem;
+    color: rgb(246, 214, 33);
+    top: -3.65rem;
+    position:relative;
+    font-size: 20px;
+  
+  }
+  .selected{
+    background-color: rgb(253, 5, 5);
+  }
+  .order_details input{
+      font-weight: 900;
+      font-size: 14px;
+      color: rgb(0, 0, 0);
+      top: -80px;
+      padding: 10px 10px 10px 10px;
+      margin-top: 10px;
+  }
+  .order_details h2{
+    top: -20px;
+    font-weight: 900;
+    position: relative;
+    color: rgb(250, 247, 247);
+  }
+  
+  
+  .inputs{
+      top: -40px;
+      padding: 10px;
+      left: 25%;
+      position: relative;
+  
+  }
+  
+  .otp{
+    width: 30%;
+    width: 40%;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.681);
+    left: 8.75rem;
+    top: -4.8rem;
+    position: relative;
+    color: aliceblue;
+    font-weight: 900;
+    /* border: none; */
+  }
+  .orderconfirm{
+    top: -75px;
+    width: 40%;
+    left: 25%;
+    padding: 10px;
+    position: relative;
+    text-transform: capitalize;
+    font-weight: 900;
+  
+  }
+  .orderconfirm:hover{
+    background-color: orangered;
+  }
+  .username{
+    top: -30px;
+    left: 25%;
+    padding: 10px;
+    position: relative;
+  
+  }
+  .map{
+    width:931px;
+    height: 400px;
+    position:absolute;
+    top: 13.4rem;
+    
+    background-image: linear-gradient(to left ,grey,rgb(62, 44, 44));
+  }
+  /* #droping_point{
+    display: none;
+  }
+  #pickup_point{
+    display: none;
+
+  } */
